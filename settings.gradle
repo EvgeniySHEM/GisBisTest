@@ -1,4 +1,5 @@
 rootProject.name = 'GisBisTest'
 
 includeBuild 'eureka-server'
+includeBuild 'api-gateway'
 
