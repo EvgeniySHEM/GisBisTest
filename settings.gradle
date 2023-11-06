@@ -1,0 +1,4 @@
+rootProject.name = 'GisBisTest'
+
+includeBuild 'eureka-server'
+
